@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0;
+  box-sizing: border-box;
+  padding: 50px;
+}
+
+table {
+  border: 4px groove burlywood;
+  align-items:center ;
+}
+td {
+  height: 50px;
+  width: 50px;
+}
+#white {
+  background: white;
+}
+#black {
+  background: black;
+}
